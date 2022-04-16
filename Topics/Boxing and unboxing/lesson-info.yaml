@@ -1,0 +1,11 @@
+content:
+- Theory
+- Initializing long value
+- Safe converting
+- Identify possible exceptions
+- NPE, zero or null
+- Identify a possible exception
+- How many wrappers
+- Wrapper classes for char and int
+- Result of the code
+- Only true or false

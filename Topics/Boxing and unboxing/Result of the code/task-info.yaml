@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: NumberFormatException
+- text: <b>longValue</b> will be equal to 0
+- text: <b>longValue</b> will be equal to null
+- text: NullPointerException
+- text: IllegalArgumentException
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1965#comment
+status: Solved
+record: -1

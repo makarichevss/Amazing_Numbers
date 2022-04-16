@@ -1,0 +1,10 @@
+content:
+- Theory
+- Natural ordering
+- Implement comparing by additional fields
+- Implement compareTo method
+- Implement Comparable
+- Rules
+- Rewrite compareTo method
+- Comparing objects
+- compareTo
